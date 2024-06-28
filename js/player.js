@@ -35,8 +35,8 @@ class Player {
             this.left = this.gameScreen.offsetWidth - this.width - 10;
         }
 
-        if (this.top > this.gameScreen.offSetHeigth - this.height - 10) {
-            this.top = this.gameScreen.offSetHeigth - this.height - 10;
+        if (this.top > this.gameScreen.offSetHeight - this.height - 10) {
+            this.top = this.gameScreen.offSetHeight - this.height - 10;
         }
 
 
