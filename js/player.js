@@ -50,7 +50,7 @@ class Player {
     }
 
     /* 
-    THIS COULD WORK IF I PASS THE VALUES (WIDTH, HEIGHT, LEFT, TOP) TO THE CONSTRUCTOR
+    THIS COULD WORK IF I PASS FIXED VALUES TO THE WIDTH, HEIGHT, LEFT, TOP
     
     
     didCollide(obstacle) {
